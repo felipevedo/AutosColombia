@@ -1,5 +1,4 @@
 exports.init = () => {
-    // connect to DB
     const mariadb = require('mariadb');
 
     const pool = mariadb.createPool({

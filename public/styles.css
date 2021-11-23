@@ -1,0 +1,25 @@
+header {
+    background-color: #99EEFF;
+}
+
+.header__logo {
+    width: 80px;
+}
+
+.header__title {
+    color: #B57A21;
+    margin-left: 1.5rem;
+}
+
+/* template: resultadoOperacion */
+.usuario__guardado__title {
+    width: fit-content;
+}
+
+.centered-icon {
+    display: block;
+    width: 70px;
+    font-size: 70px;
+}
+.centered-icon.bi-check-circle { color: forestgreen; }
+.centered-icon.bi-x-circle { color: tomato; }
